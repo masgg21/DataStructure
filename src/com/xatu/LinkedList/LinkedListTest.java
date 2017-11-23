@@ -1,8 +1,10 @@
 package com.xatu.LinkedList;
 
+import java.awt.ScrollPaneAdjustable;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.util.Scanner;
 
 /**
  * Ê¾Àý:
